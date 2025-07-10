@@ -1,0 +1,9 @@
+[submodule "master-server"]
+	path = master-server
+	url = https://github.com/touch-topnotch/master-server.git
+[submodule "vkid-gpt"]
+	path = vkid-gpt
+	url = https://github.com/touch-topnotch/vkid-gpt.git
+[submodule "archi-website"]
+	path = archi-website
+	url = https://github.com/touch-topnotch/archi-website
