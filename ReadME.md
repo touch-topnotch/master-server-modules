@@ -1,4 +1,4 @@
-# master-server-modules Scripts
+# master-server-modules scripts
 
 This directory contains various scripts to manage, deploy, and monitor services for the master-server-modules project. Below is a summary of each script and its purpose.
 
